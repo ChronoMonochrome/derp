@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011.04.14 13:10:48.187.pas,D:\Поиск файла\FindFile_.pas=C:\Documents and Settings\Студент\My Documents\Новая папка\FindFile_.pas</Transaction>
+    <Transaction>2011.04.14 13:10:48.187.dfm,D:\Поиск файла\FindFile_.dfm=C:\Documents and Settings\Студент\My Documents\Новая папка\FindFile_.dfm</Transaction>
+    <Transaction>2011.04.14 13:11:05.343.bdsproj,D:\Поиск файла\FindFile.bdsproj=D:\Поиск файла\FindFile.bdsproj</Transaction>
+  </Transactions>
+	<IPServerDescMap></IPServerDescMap>
+	<StarTeamShortcuts>; 1; 0; False; 0; -1; </StarTeamShortcuts>
+	<StarTeamMiscUserData></StarTeamMiscUserData>
+</BorlandProject>
