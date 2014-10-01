@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.05.01 13:17:50.203.pas,C:\Documents and Settings\xxx\Мои документы\Borland Studio Projects\Unit17.pas=C:\Documents and Settings\xxx\Мои документы\КОЗЛОВ\ИНФОРМАТ\ЛАБ_РАБ\2_СЕМЕСТР\LABA_14\Lst_14\Unit14_1.pas</Transaction>
+    <Transaction>2009.05.01 13:17:50.218.dfm,C:\Documents and Settings\xxx\Мои документы\Borland Studio Projects\Unit17.dfm=C:\Documents and Settings\xxx\Мои документы\КОЗЛОВ\ИНФОРМАТ\ЛАБ_РАБ\2_СЕМЕСТР\LABA_14\Lst_14\Unit14_1.dfm</Transaction>
+    <Transaction>2009.05.01 13:23:10.718.bdsproj,C:\Documents and Settings\xxx\Мои документы\Borland Studio Projects\Project9.bdsproj=C:\Documents and Settings\xxx\Мои документы\КОЗЛОВ\ИНФОРМАТ\ЛАБ_РАБ\2_СЕМЕСТР\LABA_14\Lst_14\Project14_1.bdsproj</Transaction>
+    <Transaction>2010.02.10 16:15:50.953.bdsproj,C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\ПГТУ\ИНФОРМАТ\ЛАБ_РАБ\2_СЕМЕСТР\LABA_14\Lst_14\Project14_1.bdsproj=C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\ПГТУ\ИНФОРМАТ\ЛАБ_РАБ\2_СЕМЕСТР\LABA_14\Lst_14\Project14_1.bdsproj</Transaction>
+    <Transaction>2010.02.10 16:17:41.312.pas,C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\ПГТУ\ИНФОРМАТ\ЛАБ_РАБ\2_СЕМЕСТР\LABA_14\Lst_14\Unit14_1.pas=C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA-8\Lst8\Unit8_3.pas</Transaction>
+    <Transaction>2010.02.10 16:17:41.312.dfm,C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\ПГТУ\ИНФОРМАТ\ЛАБ_РАБ\2_СЕМЕСТР\LABA_14\Lst_14\Unit14_1.dfm=C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA-8\Lst8\Unit8_3.dfm</Transaction>
+    <Transaction>2010.02.10 16:18:22.109.bdsproj,C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\ПГТУ\ИНФОРМАТ\ЛАБ_РАБ\2_СЕМЕСТР\LABA_14\Lst_14\Project14_1.bdsproj=C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA-8\Lst8\Project8_3.bdsproj</Transaction>
+  </Transactions>
+	<IPServerDescMap></IPServerDescMap>
+	<StarTeamShortcuts>; 1; 0; False; 0; -1; </StarTeamShortcuts>
+	<StarTeamMiscUserData></StarTeamMiscUserData>
+</BorlandProject>

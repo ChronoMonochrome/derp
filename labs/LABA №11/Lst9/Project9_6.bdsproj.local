@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.02.26 08:42:32.796.pas,C:\Documents and Settings\Администратор\Мои документы\Borland Studio Projects\Unit17.pas=C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Unit_4.pas</Transaction>
+    <Transaction>2010.02.26 08:42:32.796.dfm,C:\Documents and Settings\Администратор\Мои документы\Borland Studio Projects\Unit17.dfm=C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Unit_4.dfm</Transaction>
+    <Transaction>2010.02.26 08:42:47.859.bdsproj,C:\Documents and Settings\Администратор\Мои документы\Borland Studio Projects\Project9.bdsproj=C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Project9_4.bdsproj</Transaction>
+    <Transaction>2010.03.07 10:23:54.765.bdsproj,C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Project9_4.bdsproj=C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Project9_4.bdsproj</Transaction>
+    <Transaction>2010.03.07 10:24:13.437.pas,C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Unit_4.pas=C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Unit9_4.pas</Transaction>
+    <Transaction>2010.03.07 10:24:13.437.dfm,C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Unit_4.dfm=C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Unit9_4.dfm</Transaction>
+    <Transaction>2010.03.16 09:04:04.703.bdsproj,C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Project9_4.bdsproj=C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Project9_7.bdsproj</Transaction>
+    <Transaction>2010.03.16 09:07:07.343.pas,C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Unit9_4.pas=C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Unit9_7.pas</Transaction>
+    <Transaction>2010.03.16 09:07:07.343.dfm,C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Unit9_4.dfm=C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Unit9_7.dfm</Transaction>
+    <Transaction>2010.03.26 08:06:04.640.bdsproj,C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Project9_7.bdsproj=C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Project9_6.bdsproj</Transaction>
+    <Transaction>2010.03.26 08:06:22.609.pas,C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Unit9_7.pas=C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Unit9_6.dcu.pas</Transaction>
+    <Transaction>2010.03.26 08:06:22.609.dfm,C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Unit9_7.dfm=C:\Documents and Settings\Администратор\Рабочий стол\КОЗЛОВ\Л Г У\В_Т и Пр\ЛАБОР_РАБ\LABA_9\Lst9\Unit9_6.dcu.dfm</Transaction>
+  </Transactions>
+	<IPServerDescMap></IPServerDescMap>
+	<StarTeamShortcuts>; 1; 0; False; 0; -1; </StarTeamShortcuts>
+	<StarTeamMiscUserData></StarTeamMiscUserData>
+</BorlandProject>
