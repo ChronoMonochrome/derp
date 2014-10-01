@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012.10.23 10:53:37.593.pas,C:\Documents and Settings\Студент\My Documents\Borland Studio Projects\Unit1.pas=C:\Documents and Settings\Студент\My Documents\Borland Studio Projects\TTestMainU.pas</Transaction>
+    <Transaction>2012.10.23 10:53:37.593.dfm,C:\Documents and Settings\Студент\My Documents\Borland Studio Projects\Unit1.dfm=C:\Documents and Settings\Студент\My Documents\Borland Studio Projects\TTestMainU.dfm</Transaction>
+    <Transaction>2012.10.23 10:58:18.453.pas,C:\Documents and Settings\Студент\My Documents\Borland Studio Projects\TTestMainU.pas=E:\3 курс\Вирусы\15\TTestMainU.pas</Transaction>
+    <Transaction>2012.10.23 10:58:18.453.dfm,C:\Documents and Settings\Студент\My Documents\Borland Studio Projects\TTestMainU.dfm=E:\3 курс\Вирусы\15\TTestMainU.dfm</Transaction>
+    <Transaction>2012.10.23 10:58:20.031.pas,C:\Documents and Settings\Студент\My Documents\Borland Studio Projects\Unit2.pas=E:\3 курс\Вирусы\15\Unit2.pas</Transaction>
+    <Transaction>2012.10.23 10:58:20.031.dfm,C:\Documents and Settings\Студент\My Documents\Borland Studio Projects\Unit2.dfm=E:\3 курс\Вирусы\15\Unit2.dfm</Transaction>
+    <Transaction>2012.10.23 10:58:28.875.bdsproj,C:\Documents and Settings\Студент\My Documents\Borland Studio Projects\Project1.bdsproj=E:\3 курс\Вирусы\15\Project1.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
